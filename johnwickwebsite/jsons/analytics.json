@@ -1,0 +1,378 @@
+{
+  "september2023": {
+    "days": [
+      {
+        "day": 1,
+        "value": 353
+      },
+      {
+        "day": 2,
+        "value": 112
+      },
+      {
+        "day": 3,
+        "value": 10
+      },
+      {
+        "day": 4,
+        "value": 258
+      },
+      {
+        "day": 5,
+        "value": 80
+      },
+      {
+        "day": 6,
+        "value": 401
+      },
+      {
+        "day": 7,
+        "value": 324
+      },
+      {
+        "day": 8,
+        "value": 470
+      },
+      {
+        "day": 9,
+        "value": 72
+      },
+      {
+        "day": 10,
+        "value": 37
+      },
+      {
+        "day": 11,
+        "value": 157
+      },
+      {
+        "day": 12,
+        "value": 141
+      },
+      {
+        "day": 13,
+        "value": 203
+      },
+      {
+        "day": 14,
+        "value": 185
+      },
+      {
+        "day": 15,
+        "value": 305
+      },
+      {
+        "day": 16,
+        "value": 127
+      },
+      {
+        "day": 17,
+        "value": 205
+      },
+      {
+        "day": 18,
+        "value": 484
+      },
+      {
+        "day": 19,
+        "value": 248
+      },
+      {
+        "day": 20,
+        "value": 288
+      },
+      {
+        "day": 21,
+        "value": 222
+      },
+      {
+        "day": 22,
+        "value": 60
+      },
+      {
+        "day": 23,
+        "value": 260
+      },
+      {
+        "day": 24,
+        "value": 380
+      },
+      {
+        "day": 25,
+        "value": 136
+      },
+      {
+        "day": 26,
+        "value": 237
+      },
+      {
+        "day": 27,
+        "value": 83
+      },
+      {
+        "day": 28,
+        "value": 65
+      },
+      {
+        "day": 29,
+        "value": 163
+      },
+      {
+        "day": 30,
+        "value": 224
+      }
+    ]
+  },
+  "october2023": {
+    "days": [
+      {
+        "day": 1,
+        "value": 553
+      },
+      {
+        "day": 2,
+        "value": 230
+      },
+      {
+        "day": 3,
+        "value": 139
+      },
+      {
+        "day": 4,
+        "value": 530
+      },
+      {
+        "day": 5,
+        "value": 165
+      },
+      {
+        "day": 6,
+        "value": 637
+      },
+      {
+        "day": 7,
+        "value": 525
+      },
+      {
+        "day": 8,
+        "value": 652
+      },
+      {
+        "day": 9,
+        "value": 434
+      },
+      {
+        "day": 10,
+        "value": 800
+      },
+      {
+        "day": 11,
+        "value": 606
+      },
+      {
+        "day": 12,
+        "value": 412
+      },
+      {
+        "day": 13,
+        "value": 150
+      },
+      {
+        "day": 14,
+        "value": 50
+      },
+      {
+        "day": 15,
+        "value": 324
+      },
+      {
+        "day": 16,
+        "value": 593
+      },
+      {
+        "day": 17,
+        "value": 220
+      },
+      {
+        "day": 18,
+        "value": 377
+      },
+      {
+        "day": 19,
+        "value": 157
+      },
+      {
+        "day": 20,
+        "value": 107
+      },
+      {
+        "day": 21,
+        "value": 495
+      },
+      {
+        "day": 22,
+        "value": 326
+      },
+      {
+        "day": 23,
+        "value": 540
+      },
+      {
+        "day": 24,
+        "value": 401
+      },
+      {
+        "day": 25,
+        "value": 402
+      },
+      {
+        "day": 26,
+        "value": 396
+      },
+      {
+        "day": 27,
+        "value": 143
+      },
+      {
+        "day": 28,
+        "value": 422
+      },
+      {
+        "day": 29,
+        "value": 611
+      },
+      {
+        "day": 30,
+        "value": 451
+      },
+      {
+        "day": 31,
+        "value": 303
+      }
+    ]
+  },
+  "november2023": {
+    "days": [
+      {
+        "day": 1,
+        "value": 337
+      },
+      {
+        "day": 2,
+        "value": 255
+      },
+      {
+        "day": 3,
+        "value": 560
+      },
+      {
+        "day": 4,
+        "value": 482
+      },
+      {
+        "day": 5,
+        "value": 11
+      },
+      {
+        "day": 6,
+        "value": 485
+      },
+      {
+        "day": 7,
+        "value": 531
+      },
+      {
+        "day": 8,
+        "value": 367
+      },
+      {
+        "day": 9,
+        "value": 350
+      },
+      {
+        "day": 10,
+        "value": 194
+      },
+      {
+        "day": 11,
+        "value": 739
+      },
+      {
+        "day": 12,
+        "value": 174
+      },
+      {
+        "day": 13,
+        "value": 114
+      },
+      {
+        "day": 14,
+        "value": 335
+      },
+      {
+        "day": 15,
+        "value": 78
+      },
+      {
+        "day": 16,
+        "value": 610
+      },
+      {
+        "day": 17,
+        "value": 183
+      },
+      {
+        "day": 18,
+        "value": 220
+      },
+      {
+        "day": 19,
+        "value": 362
+      },
+      {
+        "day": 20,
+        "value": 545
+      },
+      {
+        "day": 21,
+        "value": 662
+      },
+      {
+        "day": 22,
+        "value": 580
+      },
+      {
+        "day": 23,
+        "value": 238
+      },
+      {
+        "day": 24,
+        "value": 407
+      },
+      {
+        "day": 25,
+        "value": 201
+      },
+      {
+        "day": 26,
+        "value": 538
+      },
+      {
+        "day": 27,
+        "value": 492
+      },
+      {
+        "day": 28,
+        "value": 151
+      },
+      {
+        "day": 29,
+        "value": 744
+      },
+      {
+        "day": 30,
+        "value": 273
+      }
+    ]
+  }
+}

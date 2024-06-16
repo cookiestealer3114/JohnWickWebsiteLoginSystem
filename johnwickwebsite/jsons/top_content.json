@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "url": "/",
+    "views": "2500",
+    "uniques": "2100"
+  },
+  {
+    "id": 2,
+    "url": "/blog/",
+    "views": "376",
+    "uniques": "139"
+  },
+  {
+    "id": 3,
+    "url": "/reserve/success",
+    "views": "468",
+    "uniques": "290"
+  },
+  {
+    "id": 4,
+    "url": "/product/product-details",
+    "views": "298",
+    "uniques": "176"
+  },
+  {
+    "id": 5,
+    "url": "/blog/digital-marketing",
+    "views": "179",
+    "uniques": "57"
+  }
+]

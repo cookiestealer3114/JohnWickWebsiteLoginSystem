@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "url": "Khabar 24",
+    "views": "4200",
+    "uniques": "3900"
+  },
+  {
+    "id": 2,
+    "url": "Qazazqstan",
+    "views": "1900",
+    "uniques": "509"
+  },
+  {
+    "id": 3,
+    "url": "QazSport",
+    "views": "1500",
+    "uniques": "986"
+  },
+  {
+    "id": 4,
+    "url": "Elarna",
+    "views": "974",
+    "uniques": "639"
+  },
+  {
+    "id": 5,
+    "url": "Balapan",
+    "views": "179",
+    "uniques": "57"
+  }
+]

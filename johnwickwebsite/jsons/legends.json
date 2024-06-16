@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Unique Visitors",
+    "value": 18600,
+    "isRise": true,
+    "difference": 18
+  },
+  {
+    "id": 2,
+    "title": "Total Pageviews",
+    "value": 55900,
+    "isRise": true,
+    "difference": 25
+  },
+  {
+    "id": 3,
+    "title": "Bounce Rate",
+    "value": 54000,
+    "isRise": false,
+    "difference": 7
+  },
+  {
+    "id": 4,
+    "title": "Visit Duration",
+    "value": 256,
+    "isRise": true,
+    "difference": 12
+  }
+]

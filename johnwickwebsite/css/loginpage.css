@@ -1,0 +1,116 @@
+:root {
+  --primary-color: #3c50e0;
+  --stroke: #e2e8f0;
+  --white-color: #ffffff;
+  --gray-color: #eff4fb;
+  --gray-color-top-cities: #f4f7ff;
+  --green-color: #10b981;
+  --yellow-color: #f0950c;
+  --text-color: #64748b;
+  --tailgrids-text-color: #637381;
+  --tailgrids-black-color: #212b36;
+  --dark-color: #1c2434;
+}
+
+.text-h1 {
+  /* 14/20 Regular */
+  color: var(--tailgrids-black-colord);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+.text-h2 {
+  /* 12/14 topbar_username_desc_font */
+  color: var(--tailgrids-text-color);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 14px;
+}
+.text-h3 {
+  /* 14/22 Medium */
+  color: var(--text-color);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+}
+.text-h4 {
+  /* 28/34 H4 */
+  color: var(--dark-color);
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 34px;
+}
+
+.text-h6 {
+  /* 22/28 H6 */
+  color: var(--tailgrids-black-color);
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+}
+.text-h7 {
+  /* 16/24 Regular */
+  color: var(--tailgrids-black-color);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+.text-h7 {
+  /* 12/15 Medium */
+  color: var(--white-color);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px;
+}
+
+.text-gen {
+  color: var(--tailgrids-text-color);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.forms {
+  height: 40px;
+}
+
+.forms_group {
+  padding-bottom: 20px;
+}
+
+.label_text {
+  font-size: 20px;
+}
+
+.cards-header {
+  padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+  margin-bottom: 0;
+  color: var(--bs-card-cap-color);
+  /* background-color: blue; */
+  border-bottom: var(--bs-card-border-width) solid var(--bs-card-border-color);
+}
+.card_footer {
+  padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+  color: var(--bs-card-cap-color);
+  border-top: var(--bs-card-border-width) solid var(--bs-card-border-color);
+}
+
+.text-right {
+  text-align: right;
+}
